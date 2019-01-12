@@ -1,0 +1,10 @@
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/bin/Debug/netcoreapp2.0/name-sorter.deps.json
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/bin/Debug/netcoreapp2.0/name-sorter.runtimeconfig.json
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/bin/Debug/netcoreapp2.0/name-sorter.runtimeconfig.dev.json
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/bin/Debug/netcoreapp2.0/name-sorter.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/bin/Debug/netcoreapp2.0/name-sorter.pdb
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/obj/Debug/netcoreapp2.0/name-sorter.csproj.CoreCompileInputs.cache
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/obj/Debug/netcoreapp2.0/name-sorter.AssemblyInfoInputs.cache
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/obj/Debug/netcoreapp2.0/name-sorter.AssemblyInfo.cs
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/obj/Debug/netcoreapp2.0/name-sorter.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorter/obj/Debug/netcoreapp2.0/name-sorter.pdb

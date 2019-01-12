@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "name-sorter", "name-sorter\name-sorter.csproj", "{C4626ECE-6BD6-47B5-BFD6-E73B113CAA0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "name-sorterTests", "name-sorterTests\name-sorterTests.csproj", "{6E53FB96-8A7F-4BD8-B694-0813E5A4F45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4626ECE-6BD6-47B5-BFD6-E73B113CAA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4626ECE-6BD6-47B5-BFD6-E73B113CAA0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4626ECE-6BD6-47B5-BFD6-E73B113CAA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4626ECE-6BD6-47B5-BFD6-E73B113CAA0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E53FB96-8A7F-4BD8-B694-0813E5A4F45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E53FB96-8A7F-4BD8-B694-0813E5A4F45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E53FB96-8A7F-4BD8-B694-0813E5A4F45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E53FB96-8A7F-4BD8-B694-0813E5A4F45F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorterTests.deps.json
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorterTests.runtimeconfig.json
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorterTests.runtimeconfig.dev.json
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorterTests.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorterTests.pdb
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorter.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/bin/Release/netcoreapp2.0/name-sorter.pdb
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/obj/Release/netcoreapp2.0/name-sorterTests.csprojResolveAssemblyReference.cache
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/obj/Release/netcoreapp2.0/name-sorterTests.csproj.CoreCompileInputs.cache
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/obj/Release/netcoreapp2.0/name-sorterTests.AssemblyInfoInputs.cache
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/obj/Release/netcoreapp2.0/name-sorterTests.AssemblyInfo.cs
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/obj/Release/netcoreapp2.0/name-sorterTests.dll
+/Users/sandalidinalaththa/Projects/name-sorter/name-sorterTests/obj/Release/netcoreapp2.0/name-sorterTests.pdb
