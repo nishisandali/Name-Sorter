@@ -8,21 +8,23 @@ namespace name_sorterTests
     [TestClass]
     public class SortNameTests
     {
+        string[] names = File.ReadAllLines(@"unsorted-names-list.txt");
+
+        // Testing GetListofNames Method 
         [TestMethod]
         public void GetListofFullNamesTests()
         {
-            string[] names = File.ReadAllLines(@"unsorted-names-list.txt");
-
             List<FullName> TestNameList = SortName.GetListofFullNames(names);
 
             Assert.IsNotNull(TestNameList);
 
         }
 
+        // Testing WriteToFile Method
         [TestMethod]
-        public void ReadAndWriteToFileTests()
+        public void WriteToFileTests()
         {
-            SortName.ReadAndWriteToFile();
+            SortName.WriteToFile(names);
 
             string[] testsortednames = File.ReadAllLines(@"sorted-names-list.txt");
 

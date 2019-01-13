@@ -71,13 +71,10 @@ namespace name_sorter
         }
 
         /***
-         * Reads from a file and Writes the sorted names to a file 
+         * Get the names List and Writes the sorted names to a file 
         */
-        public static void ReadAndWriteToFile()
+        public static void WriteToFile(String[] names)
         {
-            // Read the File
-            string[] names = File.ReadAllLines(@"unsorted-names-list.txt");
-
             // Get the created the full name list
             List<FullName> nameList = GetListofFullNames(names);
 
@@ -124,8 +121,11 @@ namespace name_sorter
                 File.Delete(@"sorted-name-list.txt");
             }
 
+            // Read the File
+            string[] names = File.ReadAllLines(@"unsorted-names-list.txt");
+
             // Write to files 
-            ReadAndWriteToFile();
+            WriteToFile(names);
                    
             }
         }
